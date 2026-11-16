@@ -1,5 +1,12 @@
 [
   {
+    "ver": "1.2.2",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.2.2.bin",
+    "sha256": "160ce00880af89a70a90d03fdd528aa2ad51a73104e8c388c3bcbde8998185a5",
+    "size": 1058048,
+    "date": "2026-11-16"
+  },
+  {
     "ver": "1.2.1",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.2.1.bin",
     "sha256": "70dedc4e57dd626228c0ea5c2cdc8831e93de871312b2e5830c9e3545abdae2e",
