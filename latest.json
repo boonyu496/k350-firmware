@@ -1,12 +1,12 @@
 {
-  "ver": "1.4.5",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.5.bin",
-  "sha256": "ce09e9b5eb4dfd31d185457938abf087e98ce0f9fce7eaf152849eb853dcf468",
-  "size": 1134800,
+  "ver": "1.4.6",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.6.bin",
+  "sha256": "50d93b3b748ca1ce0b26466b0f04ae43242626e3053ec814d842d870a74bf6b4",
+  "size": 1143440,
   "date": "2026-11-17",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@39cf326e91e8759edf6609a103297d57ac9c4c84/firmware/k350_follow_1.4.5.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@39cf326e91e8759edf6609a103297d57ac9c4c84/firmware/k350_follow_1.4.5.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@39cf326e91e8759edf6609a103297d57ac9c4c84/firmware/k350_follow_1.4.5.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@b2e3613e1a342e5094254e9814c4bf20911ff3d7/firmware/k350_follow_1.4.6.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@b2e3613e1a342e5094254e9814c4bf20911ff3d7/firmware/k350_follow_1.4.6.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@b2e3613e1a342e5094254e9814c4bf20911ff3d7/firmware/k350_follow_1.4.6.bin"
   ]
 }
