@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.12",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.12.bin",
-  "sha256": "6b031804984a0ea4a36ce8a6b56bbc522ffbfd2c4594b36dfc45c3515aa09926",
-  "sig": "876f286372458ee10276eb45f42431f8a7356c71ef746631c0e445f726349e0cf44ad70cdd5f900252b7c1911f140f1461ff310a76d3807f8bb8e1c694239d86",
-  "size": 1291264,
+  "ver": "1.4.13",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.13.bin",
+  "sha256": "35a7f3b068aa23f0024a2b01ba197a35b96a7c1c5c25eb98231869c656dc50d9",
+  "sig": "663673862f586efe2e507fb0d4a3c06a8b2f47454983860c2cb63e0432d8b49f5866fe5eb9cdbcc2b90cb670cd2c2ad5a5492f2495bbbd6ea452f0005af4add2",
+  "size": 1291632,
   "date": "2026-11-18",
-  "notes": "前进后退更顺: 换向前回零、短时死区不重预备、倒车窗口不被距离抖动打断",
+  "notes": "跟随最高速度改为走路约1.2米/秒。倒车时人在左边车尾往右、人在右边车尾往左，车头始终朝人。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@25c6d5146f1dd1ad952bbc68224453765e02c245/firmware/k350_follow_1.4.13.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@25c6d5146f1dd1ad952bbc68224453765e02c245/firmware/k350_follow_1.4.13.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@25c6d5146f1dd1ad952bbc68224453765e02c245/firmware/k350_follow_1.4.13.bin"
   ]
 }
