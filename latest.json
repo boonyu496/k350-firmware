@@ -1,13 +1,14 @@
 {
-  "ver": "1.4.11",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.11.bin",
-  "sha256": "56cd079342a26ddbf2e54144ec18ae4515aaafc0423b82253d6291ba0a6af812",
-  "sig": "0bf59a01b12a9c1823b24b83d65cdee55111400d25b0d24181af4671a8337a26112c9f406beb71a0e9800c369bf6e2d0f09f74079913ebed30ae5e0c06783742",
-  "size": 1290736,
+  "ver": "1.4.12",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.12.bin",
+  "sha256": "6b031804984a0ea4a36ce8a6b56bbc522ffbfd2c4594b36dfc45c3515aa09926",
+  "sig": "876f286372458ee10276eb45f42431f8a7356c71ef746631c0e445f726349e0cf44ad70cdd5f900252b7c1911f140f1461ff310a76d3807f8bb8e1c694239d86",
+  "size": 1291264,
   "date": "2026-11-18",
+  "notes": "前进后退更顺: 换向前回零、短时死区不重预备、倒车窗口不被距离抖动打断",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@2def4126f7f2eccbe2c1bb568c5c1bcc77df30f4/firmware/k350_follow_1.4.11.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@2def4126f7f2eccbe2c1bb568c5c1bcc77df30f4/firmware/k350_follow_1.4.11.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@2def4126f7f2eccbe2c1bb568c5c1bcc77df30f4/firmware/k350_follow_1.4.11.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@d93a1c06e9aedaae0ae9a981fd9118c6cb674ff1/firmware/k350_follow_1.4.12.bin"
   ]
 }
