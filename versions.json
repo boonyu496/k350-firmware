@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.8",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.8.bin",
+    "sha256": "078bf3f9f62aa890cdece6e9d514671e896a449924b9fe14994aba7ab39b17e0",
+    "sig": "3fef266eb7098cfd740ed9cc8e8758d3954c26a8a57ca654ed6d45cf5eab55f265fea62358974b0227ce85d704adbd1892b078c3c905bfa40664b6c041c8c708",
+    "size": 1285920,
+    "date": "2026-11-17",
+    "notes": "1.4.8: 开机默认停用需手动启用; 修复不能前进与速度标定; 标签移动检测; 录制令牌; 版本比较修复",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@1adb01acb8fc63e800d67b0494f10eb9d347fb6f/firmware/k350_follow_1.4.8.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@1adb01acb8fc63e800d67b0494f10eb9d347fb6f/firmware/k350_follow_1.4.8.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@1adb01acb8fc63e800d67b0494f10eb9d347fb6f/firmware/k350_follow_1.4.8.bin"
+    ]
+  },
+  {
     "ver": "1.4.6",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.6.bin",
     "sha256": "50d93b3b748ca1ce0b26466b0f04ae43242626e3053ec814d842d870a74bf6b4",
