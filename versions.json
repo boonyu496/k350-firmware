@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.14",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.14.bin",
+    "sha256": "da161a6517a3e6841477cb1263a99c08f4e5c538efb5cb840e19626b385d3d06",
+    "sig": "2ec6718706ff964e632f61521b030ec4ef5b7a164da86d59e14ba439b4bcefdd0e99038c2d3b2bea1b6d02bcc862c1981d0d6547f5676e3bf3564509aa1a1304",
+    "size": 1292064,
+    "date": "2026-11-18",
+    "notes": "中路有障碍时往更空的一侧绕，不再直开到停车。人和障碍方向相反时不跟着人拐进障碍。贴到停车距离仍然立刻停。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin"
+    ]
+  },
+  {
     "ver": "1.4.13",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.13.bin",
     "sha256": "35a7f3b068aa23f0024a2b01ba197a35b96a7c1c5c25eb98231869c656dc50d9",
