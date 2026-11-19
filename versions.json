@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.21",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.21.bin",
+    "sha256": "50fe2ff949c9f2dfa420d33b5273bbf2151a72cd0f05f7e201c6a54469cf8da9",
+    "sig": "e25e2888cbd122c953093d0dab83848d2d9e4a4f41ed95186c97d2c51cb5e7f374caaadcd5b0d01429ae2c36d7d968d82a1528b8171b779e36d6d82f13c3527e",
+    "size": 1294416,
+    "date": "2026-11-19",
+    "notes": "人在前面时的转速作为基础，距离跳变不再把轮子突然转快。落地如果偏慢，油门只慢慢往上加。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@60aa4c46399105d9d798cff1bd0aa50180433305/firmware/k350_follow_1.4.21.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@60aa4c46399105d9d798cff1bd0aa50180433305/firmware/k350_follow_1.4.21.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@60aa4c46399105d9d798cff1bd0aa50180433305/firmware/k350_follow_1.4.21.bin"
+    ]
+  },
+  {
     "ver": "1.4.20",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.20.bin",
     "sha256": "2e5e1379823c6a2a4737f8428e991aa1debb309000426ca7f18327fa0b4bbb7f",
