@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.17",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.17.bin",
-  "sha256": "44b55008afcb93fbd25b776e25913ec7ef03be65bdf8ad7367e668f94f550b90",
-  "sig": "f65edb90be7b603a40134b8bffc4ee3351c60b42b44d882352f9c8069b6def3d25e14f1bd3c1693b5e8017669d458ec11cf64d2bdadd81b6169104925b9c4d9f",
-  "size": 1292384,
+  "ver": "1.4.18",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.18.bin",
+  "sha256": "25304dbc56172774b81c2c8c6b1b44ae93b4e0f7318b8996754bda9cf8a9752c",
+  "sig": "a81d4e943981131520171c2e5337d390136c8c4a656996619c11c8d81605de16ee1445a9d6c4c412259a491f63335e8f5f740310ac1656fc45ef2dc6189a617a",
+  "size": 1293072,
   "date": "2026-11-19",
-  "notes": "事件日志不再记录 Wi-Fi 名称、本机 IP、热点名和主题前缀。",
+  "notes": "标定后跟随最高速度降到 80 cm/s。人靠近时收油，近距离最多用三成油门。人已经在跟前且靠近超过 60 cm/s 时，前进油门立刻归零。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin"
   ]
 }
