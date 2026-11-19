@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.14",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.14.bin",
-  "sha256": "da161a6517a3e6841477cb1263a99c08f4e5c538efb5cb840e19626b385d3d06",
-  "sig": "2ec6718706ff964e632f61521b030ec4ef5b7a164da86d59e14ba439b4bcefdd0e99038c2d3b2bea1b6d02bcc862c1981d0d6547f5676e3bf3564509aa1a1304",
-  "size": 1292064,
-  "date": "2026-11-18",
-  "notes": "中路有障碍时往更空的一侧绕，不再直开到停车。人和障碍方向相反时不跟着人拐进障碍。贴到停车距离仍然立刻停。",
+  "ver": "1.4.15",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.15.bin",
+  "sha256": "8c724190128bd66de81d4b90c47d3a69c9c72dd564ba0d1ab2584a5dad3af802",
+  "sig": "b6da9a9cdc0b4cb46a9c635367f61888baa9d0e2866a4728c32a7094863e1639a285ac9f7c75a1559fc571ef5ec8c29ce6f3293a4ed896b8db4501a4a58aae2f",
+  "size": 1292416,
+  "date": "2026-11-19",
+  "notes": "三个ToF相距约30厘米。旁边那一站确实是空的才绕过去，转向角按这个间距算。三路距离差不多是一面墙，只减速，不左右乱绕。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@e71feec3f844d73aa88b4b266ea3c30d569c40ad/firmware/k350_follow_1.4.14.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@7e4b5db95fe4d9833cc78a9803d196a900c6d4e0/firmware/k350_follow_1.4.15.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@7e4b5db95fe4d9833cc78a9803d196a900c6d4e0/firmware/k350_follow_1.4.15.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@7e4b5db95fe4d9833cc78a9803d196a900c6d4e0/firmware/k350_follow_1.4.15.bin"
   ]
 }
