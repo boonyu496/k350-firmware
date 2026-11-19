@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.20",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.20.bin",
+    "sha256": "2e5e1379823c6a2a4737f8428e991aa1debb309000426ca7f18327fa0b4bbb7f",
+    "sig": "8daf0691a672e20f96b617cdb5a658d730c639e62234d5362dbd7806148884f7f58f90ce8966e4078e1f23aca7acedafcbc41a6b3b69e34de3a53fee1af1f1ed",
+    "size": 1294160,
+    "date": "2026-11-19",
+    "notes": "距离突然变远时不再把油门顶满。没标定时，距离变远最多按 15 cm/s 加油，避免轮子突然加速。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin"
+    ]
+  },
+  {
     "ver": "1.4.19",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.19.bin",
     "sha256": "cf16a45d464529a23b0bf22101769138fc6acd46886870caa8b797f7c020713c",

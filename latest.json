@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.19",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.19.bin",
-  "sha256": "cf16a45d464529a23b0bf22101769138fc6acd46886870caa8b797f7c020713c",
-  "sig": "360f11ddf4e0976219f5dd6d916c9213b2d2414a4845a9a89a14cd4518774d55e16b9e33b0dc5e8a1b2a725b1ef0434842dea705a7524c3934dd0f82f41ad80a",
-  "size": 1293904,
+  "ver": "1.4.20",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.20.bin",
+  "sha256": "2e5e1379823c6a2a4737f8428e991aa1debb309000426ca7f18327fa0b4bbb7f",
+  "sig": "8daf0691a672e20f96b617cdb5a658d730c639e62234d5362dbd7806148884f7f58f90ce8966e4078e1f23aca7acedafcbc41a6b3b69e34de3a53fee1af1f1ed",
+  "size": 1294160,
   "date": "2026-11-19",
-  "notes": "侧向大角度先原地对准，不再让外侧轮往前冲。做完速度标定后，车按人的走路速度跟随，减少忽快忽慢。",
+  "notes": "距离突然变远时不再把油门顶满。没标定时，距离变远最多按 15 cm/s 加油，避免轮子突然加速。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@6afb09575c0886a3945dd4b7718d404904aa462b/firmware/k350_follow_1.4.20.bin"
   ]
 }
