@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.17",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.17.bin",
+    "sha256": "44b55008afcb93fbd25b776e25913ec7ef03be65bdf8ad7367e668f94f550b90",
+    "sig": "f65edb90be7b603a40134b8bffc4ee3351c60b42b44d882352f9c8069b6def3d25e14f1bd3c1693b5e8017669d458ec11cf64d2bdadd81b6169104925b9c4d9f",
+    "size": 1292384,
+    "date": "2026-11-19",
+    "notes": "事件日志不再记录 Wi-Fi 名称、本机 IP、热点名和主题前缀。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@c3dbb3407ee6c2d7fc0a9747756a96f5f5013310/firmware/k350_follow_1.4.17.bin"
+    ]
+  },
+  {
     "ver": "1.4.16",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.16.bin",
     "sha256": "e2f6895ef82712f0e0d9a81191f91c3e1ceb24928ed3d9f09032bf1a43ec70c2",
