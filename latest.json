@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.18",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.18.bin",
-  "sha256": "25304dbc56172774b81c2c8c6b1b44ae93b4e0f7318b8996754bda9cf8a9752c",
-  "sig": "a81d4e943981131520171c2e5337d390136c8c4a656996619c11c8d81605de16ee1445a9d6c4c412259a491f63335e8f5f740310ac1656fc45ef2dc6189a617a",
-  "size": 1293072,
+  "ver": "1.4.19",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.19.bin",
+  "sha256": "cf16a45d464529a23b0bf22101769138fc6acd46886870caa8b797f7c020713c",
+  "sig": "360f11ddf4e0976219f5dd6d916c9213b2d2414a4845a9a89a14cd4518774d55e16b9e33b0dc5e8a1b2a725b1ef0434842dea705a7524c3934dd0f82f41ad80a",
+  "size": 1293904,
   "date": "2026-11-19",
-  "notes": "标定后跟随最高速度降到 80 cm/s。人靠近时收油，近距离最多用三成油门。人已经在跟前且靠近超过 60 cm/s 时，前进油门立刻归零。",
+  "notes": "侧向大角度先原地对准，不再让外侧轮往前冲。做完速度标定后，车按人的走路速度跟随，减少忽快忽慢。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@bc6008537ff14fe434be7cd956b1b9f47d5dc755/firmware/k350_follow_1.4.18.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@fb92c05fa4d2fac42e1415e0b12d6a1e7cacbeb0/firmware/k350_follow_1.4.19.bin"
   ]
 }
