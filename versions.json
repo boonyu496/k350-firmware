@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.16",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.16.bin",
+    "sha256": "e2f6895ef82712f0e0d9a81191f91c3e1ceb24928ed3d9f09032bf1a43ec70c2",
+    "sig": "22f2472acb557796da58a62c8f999335a2b9c1f1bd1308a0120a8a2c8c3a59283ce9f6b05a194d8256d78cf7717573665e8ea4468e40660b34fc22960537fc3c",
+    "size": 1292640,
+    "date": "2026-11-19",
+    "notes": "直线跟人速度不变。转向大时前进油门略收，转弯更顺。已经选定的绕行方向不容易被距离噪声左右翻。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@370d2352fc1aa689f12309d4db64e6887d7c68b9/firmware/k350_follow_1.4.16.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@370d2352fc1aa689f12309d4db64e6887d7c68b9/firmware/k350_follow_1.4.16.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@370d2352fc1aa689f12309d4db64e6887d7c68b9/firmware/k350_follow_1.4.16.bin"
+    ]
+  },
+  {
     "ver": "1.4.15",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.15.bin",
     "sha256": "8c724190128bd66de81d4b90c47d3a69c9c72dd564ba0d1ab2584a5dad3af802",
