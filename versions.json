@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.22",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.22.bin",
+    "sha256": "4ae4780ffa4da8987f61b6552e128538f20a0ed265ba5818fccf4a02a1391ed8",
+    "sig": "35c3b770d8e992003f897c712e412a03e2f597e30dad1751bb75c7c9d734e784390bf957d467087540df4d5b060497a19eef71c9e22539b42d5b417e8557d762",
+    "size": 1297488,
+    "date": "2026-11-20",
+    "notes": "K350 UWB 跟随与避障功能更新",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@3e3ce2056ea084447b361e1c80c37d02508d58cd/firmware/k350_follow_1.4.22.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@3e3ce2056ea084447b361e1c80c37d02508d58cd/firmware/k350_follow_1.4.22.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@3e3ce2056ea084447b361e1c80c37d02508d58cd/firmware/k350_follow_1.4.22.bin"
+    ]
+  },
+  {
     "ver": "1.4.21",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.21.bin",
     "sha256": "50fe2ff949c9f2dfa420d33b5273bbf2151a72cd0f05f7e201c6a54469cf8da9",
