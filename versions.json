@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.25",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.25.bin",
+    "sha256": "d8785e4f4f42b81959ca68c7906277b49990488c6e63be9c05afd3386a4252b6",
+    "sig": "bb5225f8a53ed15a20ab92c89e491abc68d55abc2a70a7d45f5619771aabb8bae50f070eb8defe3b61eca43ee2b4ee557e99fbafa3f071893128e72ba633ddca",
+    "size": 1341632,
+    "date": "2026-11-23",
+    "notes": "起步时霍尔读数新鲜可以把单侧加到不超过 145 微秒，近距离先把两轮拉直。一直没有脉冲仍会停车。升速要两侧都有实测。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@1d8b973af2b7e590636049c25bb5c0766df90daf/firmware/k350_follow_1.4.25.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@1d8b973af2b7e590636049c25bb5c0766df90daf/firmware/k350_follow_1.4.25.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@1d8b973af2b7e590636049c25bb5c0766df90daf/firmware/k350_follow_1.4.25.bin"
+    ]
+  },
+  {
     "ver": "1.4.24",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.24.bin",
     "sha256": "17e6c529ee3c10f7fc9bab2aa6561207254f636f5157d6ede786bd44a23a23d9",
