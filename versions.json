@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.30",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.30.bin",
+    "sha256": "502b7604fdcf64ae6a30db2ab0c87a62629fdd38f9e8d8e4c6f7980a737334fb",
+    "sig": "4af249ab01adfd368144ba209b9102b2bb0ba91ea3b71f1f68e4780dbbfcf02ac39ce162d845c176c8eaee052ff55b89b9d1b73c0b29f711cf6cfbb121aa36b3",
+    "size": 1359984,
+    "date": "2026-11-24",
+    "notes": "改善手环跟随的起步、直行与转弯，更新方位恢复和 ToF 帧处理。倒车仍使用 1.4.29 的控制逻辑。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@d92df03a78e74e09053bf6d7406df94a1087a38f/firmware/k350_follow_1.4.30.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@d92df03a78e74e09053bf6d7406df94a1087a38f/firmware/k350_follow_1.4.30.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@d92df03a78e74e09053bf6d7406df94a1087a38f/firmware/k350_follow_1.4.30.bin"
+    ]
+  },
+  {
     "ver": "1.4.29",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.29.bin",
     "sha256": "5516f766f5165d529b49e1268f550cbaa993cc7d70f77cae93245c15f7923846",
