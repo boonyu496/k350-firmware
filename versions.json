@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.29",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.29.bin",
+    "sha256": "5516f766f5165d529b49e1268f550cbaa993cc7d70f77cae93245c15f7923846",
+    "sig": "5c51a1d3fdf5e4d7d7687dc7fc435b5d4baa348c2267f26c6566ddaa3ab3828a40f6ea7b4eb733c39be0c6e61ebdef1ba2f5eb1a4be3ab14592335a2e8c5a010",
+    "size": 1356160,
+    "date": "2026-11-24",
+    "notes": "ToF 断线重连不再把刚回到默认地址的另一路认错。松开复位脚后会多等一次再认地址。正常上电打开手环仍会跟随。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@e719273f2344f2a98ba46d7eaf6d15d85806c110/firmware/k350_follow_1.4.29.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@e719273f2344f2a98ba46d7eaf6d15d85806c110/firmware/k350_follow_1.4.29.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@e719273f2344f2a98ba46d7eaf6d15d85806c110/firmware/k350_follow_1.4.29.bin"
+    ]
+  },
+  {
     "ver": "1.4.28",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.28.bin",
     "sha256": "fd077fdabce6f4b631d157be6496ab82dda326b5ae3a1876a1f0404a5ec97710",
