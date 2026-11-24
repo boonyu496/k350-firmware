@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.26",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.26.bin",
+    "sha256": "e2b51d0bb9e537e68331c29177848b2344a61cb61fed70022d693409ac9cef6d",
+    "sig": "2fc6315ab560c3ed28fff10b13491a5c88852fc16ee6027aec6a558247d5c7f7c42a2aeeecba6d8b08f802d4cb0bcbd49ca7cb651321981b770ee07c6d25a1d6",
+    "size": 1348208,
+    "date": "2026-11-24",
+    "notes": "左右轮起转油门不一样时，先把两侧都带起来再收油。起步失败后保持停车，等人或车的位置真正变化才再起步。手环关掉仍然马上停车。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin"
+    ]
+  },
+  {
     "ver": "1.4.25",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.25.bin",
     "sha256": "d8785e4f4f42b81959ca68c7906277b49990488c6e63be9c05afd3386a4252b6",
