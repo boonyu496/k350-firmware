@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.26",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.26.bin",
-  "sha256": "e2b51d0bb9e537e68331c29177848b2344a61cb61fed70022d693409ac9cef6d",
-  "sig": "2fc6315ab560c3ed28fff10b13491a5c88852fc16ee6027aec6a558247d5c7f7c42a2aeeecba6d8b08f802d4cb0bcbd49ca7cb651321981b770ee07c6d25a1d6",
-  "size": 1348208,
+  "ver": "1.4.27",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.27.bin",
+  "sha256": "c388b5f3926b45f341ca1f0e27454a1aa727783fdb55df5c4f5197b8fbac58b9",
+  "sig": "736e6d2ed73893d530d54801c49065bf3e6bf3e7f4e4107a968ca11c134b7ca2a0926688421824d2e4db9c3571141dc09635f27104934d1d48b94328f51990ee",
+  "size": 1353680,
   "date": "2026-11-24",
-  "notes": "左右轮起转油门不一样时，先把两侧都带起来再收油。起步失败后保持停车，等人或车的位置真正变化才再起步。手环关掉仍然马上停车。",
+  "notes": "跟随从每秒 40 厘米起，跑顺了下次上电再升一档，最高 65。起步时的冲一下不再挡住升档。试用超速会马上退回。手环关掉仍然马上停车。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@90362261e0067e8d823786912f8653e7ecdea236/firmware/k350_follow_1.4.26.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin"
   ]
 }
