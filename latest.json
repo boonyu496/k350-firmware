@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.27",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.27.bin",
-  "sha256": "c388b5f3926b45f341ca1f0e27454a1aa727783fdb55df5c4f5197b8fbac58b9",
-  "sig": "736e6d2ed73893d530d54801c49065bf3e6bf3e7f4e4107a968ca11c134b7ca2a0926688421824d2e4db9c3571141dc09635f27104934d1d48b94328f51990ee",
-  "size": 1353680,
+  "ver": "1.4.28",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.28.bin",
+  "sha256": "fd077fdabce6f4b631d157be6496ab82dda326b5ae3a1876a1f0404a5ec97710",
+  "sig": "d25efe241e1260de34e3238dc2de0b7709e2f8d054e76d15012fafbdc22ab25765e72af9dcc6768cbe965eb43dcd5c1c97e6073a05f9424b5958581441af4bbb",
+  "size": 1355744,
   "date": "2026-11-24",
-  "notes": "跟随从每秒 40 厘米起，跑顺了下次上电再升一档，最高 65。起步时的冲一下不再挡住升档。试用超速会马上退回。手环关掉仍然马上停车。",
+  "notes": "正常上电打开手环就开始跟随。车上原来保存的每秒 50 厘米会按自动档从 40 升到 65。手环关掉仍然马上停车。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@88b5dfb2111dd7ee80c722a7f20af88706bb9fad/firmware/k350_follow_1.4.27.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@3219541998fcdb21287cad42eabb2cb4e46ce45f/firmware/k350_follow_1.4.28.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@3219541998fcdb21287cad42eabb2cb4e46ce45f/firmware/k350_follow_1.4.28.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@3219541998fcdb21287cad42eabb2cb4e46ce45f/firmware/k350_follow_1.4.28.bin"
   ]
 }
