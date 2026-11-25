@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.34",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.34.bin",
+    "sha256": "debefba4e933890ac9334418db13fb8f89e27c64fa69c7b866f57006abda0026",
+    "sig": "ec2d2afa8514d6057d98fe0cce93cbd37f720838bd3b900ed9755be2b323819b32c969ab594bba23c8698a1dac2678e72ce289010746ba3ea17d03eed1d361b2",
+    "size": 1364960,
+    "date": "2026-11-25",
+    "notes": "中路测距一断一续时，低速跟随不再被反复打断。倒车仍使用 1.4.29 的控制逻辑。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@a05e816e1d316bd79acd07eb813c5e150196f030/firmware/k350_follow_1.4.34.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@a05e816e1d316bd79acd07eb813c5e150196f030/firmware/k350_follow_1.4.34.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@a05e816e1d316bd79acd07eb813c5e150196f030/firmware/k350_follow_1.4.34.bin"
+    ]
+  },
+  {
     "ver": "1.4.33",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.33.bin",
     "sha256": "7f4ae3d673ae51b9bb64ffa43db92136d70c091057da63c7b239bd60d8ede8a4",
