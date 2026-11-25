@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.36",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.36.bin",
+    "sha256": "6e63c884557849369d68e461e9c634912fcf702bd6196fcbddcc1f0564160f99",
+    "sig": "b0d3c29bf185b12fd3feab3812b92baf05fd45e54995590c61ae752d1e8499c1b0e17a020c47511a3d4e2b94007d786074487540351479d4e5bf34c662013258",
+    "size": 1368288,
+    "date": "2026-11-25",
+    "notes": "短时测距恢复时，新的霍尔沿只按当拍实际交付学习驱动力，滑行沿不再记成更高的预备量。倒车仍使用 1.4.29 的控制逻辑。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin"
+    ]
+  },
+  {
     "ver": "1.4.35",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.35.bin",
     "sha256": "d3941b7ebbed6793e95a3b9a41246891fb33bb3da8763c461a8df19155ac56fd",
