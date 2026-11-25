@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.33",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.33.bin",
+    "sha256": "7f4ae3d673ae51b9bb64ffa43db92136d70c091057da63c7b239bd60d8ede8a4",
+    "sig": "0116cf56b071813399234f2743ddcc1d4a4dbcce69ee23a908917bd76163db6242c51e7595328b5d9e399711a9673ac65717cf126b0158e976b74912224befd7",
+    "size": 1365216,
+    "date": "2026-11-25",
+    "notes": "卷绕时没转的轮会短时加力再等沿，停车后继续等方位恢复。倒车仍使用 1.4.29 的控制逻辑。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@78d2a073a6f7c8d4adc4a2aea5f0f0104e023dda/firmware/k350_follow_1.4.33.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@78d2a073a6f7c8d4adc4a2aea5f0f0104e023dda/firmware/k350_follow_1.4.33.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@78d2a073a6f7c8d4adc4a2aea5f0f0104e023dda/firmware/k350_follow_1.4.33.bin"
+    ]
+  },
+  {
     "ver": "1.4.32",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.32.bin",
     "sha256": "b42c6350bbaf5d7e063113442f409160fe07e38b6612d89df63eb48c6ad16f86",
