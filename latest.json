@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.31",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.31.bin",
-  "sha256": "4a987f04b89bedffd1911c5294fa280df56cba74eea02c3eda14b6a0b1654d2d",
-  "sig": "ca7af9b9721b9f849de4a2d4008223e2569dda087f639b200c23bc555aa8f6e8de19c4de22271ad17b3e71eecd3e6c7cebdc0ec844946e457703cf0ababcd3cf",
-  "size": 1361344,
+  "ver": "1.4.32",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.32.bin",
+  "sha256": "b42c6350bbaf5d7e063113442f409160fe07e38b6612d89df63eb48c6ad16f86",
+  "sig": "f32f75dae0cfe1db711ffabfc4a6f985442485855fd528c43a417418dfde2b4d7efa98ae7617eb3e5b7908a4282edefdc102868386a3a46e33b47d3887645b1d",
+  "size": 1362272,
   "date": "2026-11-25",
-  "notes": "同向起步遇到短断档会接着爬坡，低速时两轮更同步。倒车仍使用 1.4.29 的控制逻辑。",
+  "notes": "长停后重新前进会重新预备，并补上驱动和循线的诊断事件。倒车仍使用 1.4.29 的控制逻辑。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@6840a0f5e250eb0317a07b53331fffb4d583a126/firmware/k350_follow_1.4.31.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@6840a0f5e250eb0317a07b53331fffb4d583a126/firmware/k350_follow_1.4.31.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@6840a0f5e250eb0317a07b53331fffb4d583a126/firmware/k350_follow_1.4.31.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@4294138df171e0287700dabbf68916d0227f5fd6/firmware/k350_follow_1.4.32.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@4294138df171e0287700dabbf68916d0227f5fd6/firmware/k350_follow_1.4.32.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@4294138df171e0287700dabbf68916d0227f5fd6/firmware/k350_follow_1.4.32.bin"
   ]
 }
