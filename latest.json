@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.36",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.36.bin",
-  "sha256": "6e63c884557849369d68e461e9c634912fcf702bd6196fcbddcc1f0564160f99",
-  "sig": "b0d3c29bf185b12fd3feab3812b92baf05fd45e54995590c61ae752d1e8499c1b0e17a020c47511a3d4e2b94007d786074487540351479d4e5bf34c662013258",
-  "size": 1368288,
+  "ver": "1.4.37",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.37.bin",
+  "sha256": "eaef6fb9580df9a2d5094ec63dabfbc3b119d616b78ba48329808353f1b6ecbf",
+  "sig": "6663d9e3f37aefc60f8fc231a5155fcf675493c545931e53e2624694d4002e1d073925b2e1f68dde2b5050cd1afc82a050d976ab54e626c2193a97c2c93ea439",
+  "size": 1370864,
   "date": "2026-11-25",
-  "notes": "短时测距恢复时，新的霍尔沿只按当拍实际交付学习驱动力，滑行沿不再记成更高的预备量。倒车仍使用 1.4.29 的控制逻辑。",
+  "notes": "修复分块下载和热点上传的末块写入，升级后连着热点也能完成联网确认。倒车仍使用 1.4.29 的控制逻辑。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@353c9a71b2f99b3871a02f4729d0e39f35f99dc3/firmware/k350_follow_1.4.36.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin"
   ]
 }
