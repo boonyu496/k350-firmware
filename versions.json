@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.42",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.42.bin",
+    "sha256": "7f1b20824cb720b7078e147f39c596ed7dbac8ddf702336810dbbf2e4b540357",
+    "sig": "0637daa927966e6b03fbd10d13f69e6026992ed720ee8ced00274d99ba91f6bb2fc91af6cd60d72862e54ded4260d24dfce33145e72775ce35e2252af0f70131",
+    "size": 1379136,
+    "date": "2026-11-26",
+    "notes": "采样历史优先放到外部内存，给升级握手留出内部内存。续传时内存不够会直接说明，不再写成不能上网。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin"
+    ]
+  },
+  {
     "ver": "1.4.41",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.41.bin",
     "sha256": "3c954bd72b637205d089f11dd6624c14626ed232f6289b5b85e8439bba90cd1d",
