@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.38",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.38.bin",
-  "sha256": "d299659a67915af9125a36d5a82d5ec9a7e88550a06874a0718a60be5efbc332",
-  "sig": "8d7418076733055270d94bf8ff6c24c12d9b88cd974c4a1984b0046058deb2dd282bc89cd9d48f18946153f7777fafb1122b47c5992e24c5f9a6eb6b2772e355",
-  "size": 1379216,
+  "ver": "1.4.39",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.39.bin",
+  "sha256": "55ba3eef0c1f14025a61ece500b30237a69112edbb0131c6566740985c340cb8",
+  "sig": "9d5ae15e1985425a10239f76731a1285b39e55dc846b22ed0099ca0db6e1e1e714483f04edca34b7182e389b9a75bfcd981c96329376c332ea987c7489b4bde3",
+  "size": 1373728,
   "date": "2026-11-26",
-  "notes": "手机连上小车热点就能看循线、前方测距和本次测试日志，没网也能下载。",
+  "notes": "前方 90 厘米减速；手环和前方都小于 50 厘米才倒车。三路测距一起掉就停车，恢复后续行。手机请用 http://192.168.4.1。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin"
   ]
 }
