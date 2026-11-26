@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.37",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.37.bin",
-  "sha256": "eaef6fb9580df9a2d5094ec63dabfbc3b119d616b78ba48329808353f1b6ecbf",
-  "sig": "6663d9e3f37aefc60f8fc231a5155fcf675493c545931e53e2624694d4002e1d073925b2e1f68dde2b5050cd1afc82a050d976ab54e626c2193a97c2c93ea439",
-  "size": 1370864,
-  "date": "2026-11-25",
-  "notes": "修复分块下载和热点上传的末块写入，升级后连着热点也能完成联网确认。倒车仍使用 1.4.29 的控制逻辑。",
+  "ver": "1.4.38",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.38.bin",
+  "sha256": "d299659a67915af9125a36d5a82d5ec9a7e88550a06874a0718a60be5efbc332",
+  "sig": "8d7418076733055270d94bf8ff6c24c12d9b88cd974c4a1984b0046058deb2dd282bc89cd9d48f18946153f7777fafb1122b47c5992e24c5f9a6eb6b2772e355",
+  "size": 1379216,
+  "date": "2026-11-26",
+  "notes": "手机连上小车热点就能看循线、前方测距和本次测试日志，没网也能下载。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@d747af9b45dec90150bb249f6071fa9319c7fd1e/firmware/k350_follow_1.4.37.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin"
   ]
 }

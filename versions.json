@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.38",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.38.bin",
+    "sha256": "d299659a67915af9125a36d5a82d5ec9a7e88550a06874a0718a60be5efbc332",
+    "sig": "8d7418076733055270d94bf8ff6c24c12d9b88cd974c4a1984b0046058deb2dd282bc89cd9d48f18946153f7777fafb1122b47c5992e24c5f9a6eb6b2772e355",
+    "size": 1379216,
+    "date": "2026-11-26",
+    "notes": "手机连上小车热点就能看循线、前方测距和本次测试日志，没网也能下载。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@09d8774e08ff21b4814c0c21a44b726a149603d4/firmware/k350_follow_1.4.38.bin"
+    ]
+  },
+  {
     "ver": "1.4.37",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.37.bin",
     "sha256": "eaef6fb9580df9a2d5094ec63dabfbc3b119d616b78ba48329808353f1b6ecbf",
