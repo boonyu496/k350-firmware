@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.39",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.39.bin",
-  "sha256": "55ba3eef0c1f14025a61ece500b30237a69112edbb0131c6566740985c340cb8",
-  "sig": "9d5ae15e1985425a10239f76731a1285b39e55dc846b22ed0099ca0db6e1e1e714483f04edca34b7182e389b9a75bfcd981c96329376c332ea987c7489b4bde3",
-  "size": 1373728,
+  "ver": "1.4.40",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.40.bin",
+  "sha256": "9966557e42f87aca87bcc3c1609c74df0b5a2ae10e4e68d6c553114b42b3718d",
+  "sig": "0bd30749fed8ec9c0c9f86df626bb303e4d99be39799c0116b5deee2a3958365b553ae6633188b19f9a83623a5e3ef94718360d50c40719a5f25d19c559b83dd",
+  "size": 1374416,
   "date": "2026-11-26",
-  "notes": "前方 90 厘米减速；手环和前方都小于 50 厘米才倒车。三路测距一起掉就停车，恢复后续行。手机请用 http://192.168.4.1。",
+  "notes": "侧路连续空读数且前方通畅时放开旧近障。减速时把油门补到轮子能转。贴着 50 厘米的一帧不再打断倒车。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@4e3ce0ab2ff64d56e306a689149e4dd51eb10b36/firmware/k350_follow_1.4.39.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin"
   ]
 }
