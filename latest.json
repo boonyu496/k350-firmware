@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.40",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.40.bin",
-  "sha256": "9966557e42f87aca87bcc3c1609c74df0b5a2ae10e4e68d6c553114b42b3718d",
-  "sig": "0bd30749fed8ec9c0c9f86df626bb303e4d99be39799c0116b5deee2a3958365b553ae6633188b19f9a83623a5e3ef94718360d50c40719a5f25d19c559b83dd",
-  "size": 1374416,
+  "ver": "1.4.41",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.41.bin",
+  "sha256": "3c954bd72b637205d089f11dd6624c14626ed232f6289b5b85e8439bba90cd1d",
+  "sig": "25fa790533ae1a814358e342928bb689b58a95697b7bf51404e3a8a90ce92b8e6d3915f770dcd69a35d5bc5828b2ceaef66ac8d433465ee8a8a65b8519c986ca",
+  "size": 1378272,
   "date": "2026-11-26",
-  "notes": "侧路连续空读数且前方通畅时放开旧近障。减速时把油门补到轮子能转。贴着 50 厘米的一帧不再打断倒车。",
+  "notes": "手机连上小车热点后，先稳定 5 秒再去连家里的 Wi-Fi。页面第一下没拿到状态，就停用启用、新场次和下载。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@cdd3849f41ba4bea60b058c57778545af30b0c3b/firmware/k350_follow_1.4.40.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@c3340f80c53757c579e9084038f32be17218c587/firmware/k350_follow_1.4.41.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@c3340f80c53757c579e9084038f32be17218c587/firmware/k350_follow_1.4.41.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@c3340f80c53757c579e9084038f32be17218c587/firmware/k350_follow_1.4.41.bin"
   ]
 }
