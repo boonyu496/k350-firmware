@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.46",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.46.bin",
-  "sha256": "1501af54775bf2b98f6d5975e8113b388203bcadde1c69a0613e0d3df593943c",
-  "sig": "e1be7b2813818dbe4b8f26e286c3dd41cf0a2b7fdc99fc59309c1322703932a0eedce602242d15f3adfef761fdcb63f66f95b53537307d2b816a27d56bbd787e",
-  "size": 1389200,
+  "ver": "1.4.47",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.47.bin",
+  "sha256": "d6a13288c5ae5e60870d45f2b44c7e936b47a94f74b751051af8a7ca5dece79d",
+  "sig": "b36bad9cc4d4cc769580694f1eab004d32ad90aefaa1ebdc3ece4a33e9e70513f9d779f2a87dbd6f85dedef33c339463c908bd7ca0d133b8c86811bdddecb43a",
+  "size": 1390656,
   "date": "2026-11-27",
-  "notes": "新增实车运行中双轮自平衡与防甩尾削减，修复距离缩短无脉冲误停用及ToF减速抖动",
+  "notes": "修复右轮起步阈值高于巡航上限导致的右偏、卡顿与急甩问题；对 UWB 历史轨迹入线做滤波去噪并将循线有效前视拓展至 4.5 m，增强温和 ToF SLOW 期间的双轮自平衡与直行同步。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@76d3025b30a37f7ba34f181b4c1e5cb4e60e4724/firmware/k350_follow_1.4.46.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@76d3025b30a37f7ba34f181b4c1e5cb4e60e4724/firmware/k350_follow_1.4.46.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@76d3025b30a37f7ba34f181b4c1e5cb4e60e4724/firmware/k350_follow_1.4.46.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@0965bae7973d14e74e97294c770ee8a3dac73881/firmware/k350_follow_1.4.47.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@0965bae7973d14e74e97294c770ee8a3dac73881/firmware/k350_follow_1.4.47.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@0965bae7973d14e74e97294c770ee8a3dac73881/firmware/k350_follow_1.4.47.bin"
   ]
 }
