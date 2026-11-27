@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.48",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.48.bin",
+    "sha256": "27a687ca28d5f402c0e510d788913d70cb6039d0055710ae047b5239fbe65144",
+    "sig": "ed8dbe221bf256a8ce25b5563adcc4975d927c676a58595f77b58f295ab56efac50cce17d427fbbf86597c1fff03b601a002048a795502e03adab4bc61f1b8c7",
+    "size": 1394976,
+    "date": "2026-11-27",
+    "notes": "双H5地图升级固定向北路线+车身旋转追线，开放驱动自学习与自平衡实时状态，修复限速器掉相、AIM过冲及远距跳点",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@0b64ddd2b3347fa19f080e2ad74bb6638d414a59/firmware/k350_follow_1.4.48.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@0b64ddd2b3347fa19f080e2ad74bb6638d414a59/firmware/k350_follow_1.4.48.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@0b64ddd2b3347fa19f080e2ad74bb6638d414a59/firmware/k350_follow_1.4.48.bin"
+    ]
+  },
+  {
     "ver": "1.4.47",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.47.bin",
     "sha256": "d6a13288c5ae5e60870d45f2b44c7e936b47a94f74b751051af8a7ca5dece79d",
