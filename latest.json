@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.43",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.43.bin",
-  "sha256": "58ed5ad2df8a4bec5593c0f70b685a62b370bd75ae816bb4a3dfc5382b92ece2",
-  "sig": "56bee240bbd6358ef4f4d86956b09d3a9ae77329ca50dd87e559bbbd74665569b3cba3b281fbe400581aca7cd877ba6a462540c4b32cb1786baa711b5670da33",
-  "size": 1380848,
+  "ver": "1.4.44",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.44.bin",
+  "sha256": "56457283fa2684c3e4cc67cff253b2b213253ead198e03a620b8fd8d207cfdf1",
+  "sig": "d08ea028e8bf74f64ba6ee0cb29d0bddd56f53629040669a3638384719624987ccfecdaa84838a3e76c6be4c4e8629f9a10f1364fdee35928c71393329e60d04",
+  "size": 1381040,
   "date": "2026-11-27",
-  "notes": "锁定期间不再误加转向补偿。近距离停车和快速接近急停保持原样。",
+  "notes": "修复远距离起步准备时误停跟随，改善减速边界的重新跟随，并缩短方位恢复后的等待。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@9d06c760bdb8680acb421d7da5aa5efdb6efb66c/firmware/k350_follow_1.4.44.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@9d06c760bdb8680acb421d7da5aa5efdb6efb66c/firmware/k350_follow_1.4.44.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@9d06c760bdb8680acb421d7da5aa5efdb6efb66c/firmware/k350_follow_1.4.44.bin"
   ]
 }
