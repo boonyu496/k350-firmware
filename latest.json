@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.42",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.42.bin",
-  "sha256": "7f1b20824cb720b7078e147f39c596ed7dbac8ddf702336810dbbf2e4b540357",
-  "sig": "0637daa927966e6b03fbd10d13f69e6026992ed720ee8ced00274d99ba91f6bb2fc91af6cd60d72862e54ded4260d24dfce33145e72775ce35e2252af0f70131",
-  "size": 1379136,
-  "date": "2026-11-26",
-  "notes": "采样历史优先放到外部内存，给升级握手留出内部内存。续传时内存不够会直接说明，不再写成不能上网。",
+  "ver": "1.4.43",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.43.bin",
+  "sha256": "58ed5ad2df8a4bec5593c0f70b685a62b370bd75ae816bb4a3dfc5382b92ece2",
+  "sig": "56bee240bbd6358ef4f4d86956b09d3a9ae77329ca50dd87e559bbbd74665569b3cba3b281fbe400581aca7cd877ba6a462540c4b32cb1786baa711b5670da33",
+  "size": 1380848,
+  "date": "2026-11-27",
+  "notes": "锁定期间不再误加转向补偿。近距离停车和快速接近急停保持原样。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@47d427af38cc28d17aed4ef8cdaae80ce2680fa9/firmware/k350_follow_1.4.42.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@356ff37356077abe414fa5f1b0855a7da959c2d3/firmware/k350_follow_1.4.43.bin"
   ]
 }
