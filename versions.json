@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.49",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.49.bin",
+    "sha256": "c753d081fb0042f1d968c61f50a197c5c958ada6725b3c2b0869ffa4a78f2d53",
+    "sig": "88a88f6f661ecd534c6305179acee963fd478369de58f17818f66a2d1a9307be159f45a21462548fd54a72224a39d44d29ed9ccda8968311f3e2a70a8b2c4f4b",
+    "size": 1395872,
+    "date": "2026-11-27",
+    "notes": "改为左右分轮独立限速(capL/capR)，单侧超速不再连带拖慢或压停另一侧，消除55us/s滞后卡顿与断线飞车",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@156b9fc6d0ec55418e02a49026a45d5621624527/firmware/k350_follow_1.4.49.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@156b9fc6d0ec55418e02a49026a45d5621624527/firmware/k350_follow_1.4.49.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@156b9fc6d0ec55418e02a49026a45d5621624527/firmware/k350_follow_1.4.49.bin"
+    ]
+  },
+  {
     "ver": "1.4.48",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.48.bin",
     "sha256": "27a687ca28d5f402c0e510d788913d70cb6039d0055710ae047b5239fbe65144",
