@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.45",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.45.bin",
+    "sha256": "99066c35a06441f9ffa43ad6ac396c0b0622244afa7c9c0dfec1dfd07b5c05eb",
+    "sig": "a16869834881178ff243cf54a4459a4069961dca7525977ad268561f8c8d7972badbc720bc336a8d4981eeec671f01cd2c959412f245df38080e5909414f3553",
+    "size": 1382528,
+    "date": "2026-11-27",
+    "notes": "修复空旷环境避障锁死与方位跳变误停，消除巡航周期性卡顿，提升远距响应并优化拐弯循线跟随。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@98d0e423f0cf6e5994f762aa149c40da13a5bd66/firmware/k350_follow_1.4.45.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@98d0e423f0cf6e5994f762aa149c40da13a5bd66/firmware/k350_follow_1.4.45.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@98d0e423f0cf6e5994f762aa149c40da13a5bd66/firmware/k350_follow_1.4.45.bin"
+    ]
+  },
+  {
     "ver": "1.4.44",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.44.bin",
     "sha256": "56457283fa2684c3e4cc67cff253b2b213253ead198e03a620b8fd8d207cfdf1",
