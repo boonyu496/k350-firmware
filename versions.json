@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.55",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.55.bin",
+    "sha256": "ea34e0e4b191d0d0e877f5cf1e634b7d1b14729e4451e0822ef434d75b66e927",
+    "sig": "40e1a210e3ca557d0575dfb0c50d1a78968bea259e019ae94f08003f4d787d8699d1673289f8f6bcb503d6bf7742cd118aae7cab9e3983ecb405067a7d9d4811",
+    "size": 1404800,
+    "date": "2026-11-28",
+    "notes": "修复低速跟随起步后反复停顿：静止轮先起转，再恢复已学的左右轮修正。中路连续弱回波时增加一次较长复测，保留近障停车和轮速保护。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin"
+    ]
+  },
+  {
     "ver": "1.4.54",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.54.bin",
     "sha256": "7210aa6dc66aefd79cf3722df6dbef2913dfac432a73765d8a7089d5bc98b012",
