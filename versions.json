@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.54",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.54.bin",
+    "sha256": "7210aa6dc66aefd79cf3722df6dbef2913dfac432a73765d8a7089d5bc98b012",
+    "sig": "a06bef1018876f4590c55244ef9ec74dbd1ec7b7e16476efa4f5519134de3891087188fd4de651224bed1852e900722cdbc07669469c62007a0524043c4e447f",
+    "size": 1403472,
+    "date": "2026-11-28",
+    "notes": "跟随手环无需站在中路80厘米；单路中距离回波只减速，光学短暂失测会复测。前障逼近后失测保持停车。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@ed3204f4b9ca1a10eefe1f8ba6ba21632defa110/firmware/k350_follow_1.4.54.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@ed3204f4b9ca1a10eefe1f8ba6ba21632defa110/firmware/k350_follow_1.4.54.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@ed3204f4b9ca1a10eefe1f8ba6ba21632defa110/firmware/k350_follow_1.4.54.bin"
+    ]
+  },
+  {
     "ver": "1.4.53",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.53.bin",
     "sha256": "fd6266bae5daca32198fcab15c45a4d57ae0b1cd30ce35b501354b81bb17cbc0",
