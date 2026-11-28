@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.58",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.58.bin",
+    "sha256": "70e17398af0ad1bfa8d01b57ce97d52b3fc1271779f33ee895a6bab2088eead1",
+    "sig": "103689d8882b3b494ca1620dbffbfe67c429b5e96da793b6eedffbcb93780e016646dc119a46f4ed0778d4f6f73d9aba9c6e4d0a37073b2e3675788d6d5179ca",
+    "size": 1421600,
+    "date": "2026-11-28",
+    "notes": "车道短暂不清时先缓降，不立刻退出配速。低速脉冲间隔变长时不再误判已停，限速守住已学会的起转门槛。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@62c5fcd381eb7cf032336f5ecfe1179e34634937/firmware/k350_follow_1.4.58.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@62c5fcd381eb7cf032336f5ecfe1179e34634937/firmware/k350_follow_1.4.58.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@62c5fcd381eb7cf032336f5ecfe1179e34634937/firmware/k350_follow_1.4.58.bin"
+    ]
+  },
+  {
     "ver": "1.4.57",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.57.bin",
     "sha256": "ec9629b7cb49226d2fe43926eb91d61dbae6fb2ea39e701ca423ee9b13c59bfd",
