@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.52",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.52.bin",
-  "sha256": "4c683750e9474b300a0bef001b9d064d7b5c9a3cd1ead96f691f006c67a4456c",
-  "sig": "4680ded19944a6bb7a0a380ad5fd0bde56ad08162aa0113a2f3f4b82367ee0df4222ab875899577ebfdbc6d7f9bc81f3cd57c81e90867e0dcbdaea689e4e6bbf",
-  "size": 1400848,
+  "ver": "1.4.53",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.53.bin",
+  "sha256": "fd6266bae5daca32198fcab15c45a4d57ae0b1cd30ce35b501354b81bb17cbc0",
+  "sig": "93d079cfcdc9f03f2eb61232ef71fd8e37c4aab48754aa59b9814f9e02e7b9e6b8d2d3669ed8652520160124294a5f19c8d0f8d30876a06509da9a176a6fab3b",
+  "size": 1402592,
   "date": "2026-11-28",
-  "notes": "优化低速跟随的双轮纠偏和方位丢失时的减速，修正近距直退、弯退与绕障停车后的恢复。此版供同版实车验证。",
+  "notes": "离线热点改用手机能连上的信道，并提供不用脚本的手机状态页。受限浏览器里轮询中断后会自己恢复。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@6429a3761b3e76d3ed192b53cab2f6e3242301ae/firmware/k350_follow_1.4.53.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@6429a3761b3e76d3ed192b53cab2f6e3242301ae/firmware/k350_follow_1.4.53.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@6429a3761b3e76d3ed192b53cab2f6e3242301ae/firmware/k350_follow_1.4.53.bin"
   ]
 }
