@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.50",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.50.bin",
+    "sha256": "4300a651452aea2887d9659fe60e2fbcaca3f48f178732284024d3c4f126d9b9",
+    "sig": "464dbfa8a6c0bc6d344d6ebc6a5706419b4acb3282817c2cea97865a31fde5682f6254fb118237b44a7bf6eda97d8e3205a5e6e9ffc9bfa9f15d99d7fae5207d",
+    "size": 1349328,
+    "date": "2026-11-27",
+    "notes": "脉冲闭环均衡升级，消除ToF-3抖动，双H5改用轮速与脉冲主显",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@e685918ee3a45f5612d503adf18a43ea342306de/firmware/k350_follow_1.4.50.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@e685918ee3a45f5612d503adf18a43ea342306de/firmware/k350_follow_1.4.50.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@e685918ee3a45f5612d503adf18a43ea342306de/firmware/k350_follow_1.4.50.bin"
+    ]
+  },
+  {
     "ver": "1.4.49",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.49.bin",
     "sha256": "c753d081fb0042f1d968c61f50a197c5c958ada6725b3c2b0869ffa4a78f2d53",
