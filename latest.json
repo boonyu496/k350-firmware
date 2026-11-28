@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.51",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.51.bin",
-  "sha256": "9727830f4a1761e9fd0b40018ee8d243795ed434c1918affce72b7380da1cd80",
-  "sig": "e3fb93bd9f961b6189e446bd572f75ed5c2b07fb77fd5606536c61718756359e00f1194d73de036b66465c97bd867d9c537292a839ae1a804d1d675c5b823b8a",
-  "size": 1397776,
-  "date": "2026-11-27",
-  "notes": "脉冲闭环均衡升级，消除ToF-3抖动，双H5改用轮速与脉冲主显 (field正式版)",
+  "ver": "1.4.52",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.52.bin",
+  "sha256": "4c683750e9474b300a0bef001b9d064d7b5c9a3cd1ead96f691f006c67a4456c",
+  "sig": "4680ded19944a6bb7a0a380ad5fd0bde56ad08162aa0113a2f3f4b82367ee0df4222ab875899577ebfdbc6d7f9bc81f3cd57c81e90867e0dcbdaea689e4e6bbf",
+  "size": 1400848,
+  "date": "2026-11-28",
+  "notes": "优化低速跟随的双轮纠偏和方位丢失时的减速，修正近距直退、弯退与绕障停车后的恢复。此版供同版实车验证。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@62aeb84e2cf2939e6cc8972427473d80001cefa4/firmware/k350_follow_1.4.51.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@62aeb84e2cf2939e6cc8972427473d80001cefa4/firmware/k350_follow_1.4.51.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@62aeb84e2cf2939e6cc8972427473d80001cefa4/firmware/k350_follow_1.4.51.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@731a9dedb4a055400c98ff6e79c4b05e6a3fcbb9/firmware/k350_follow_1.4.52.bin"
   ]
 }
