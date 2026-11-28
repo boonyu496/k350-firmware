@@ -1,5 +1,19 @@
 [
   {
+    "ver": "1.4.57",
+    "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.57.bin",
+    "sha256": "ec9629b7cb49226d2fe43926eb91d61dbae6fb2ea39e701ca423ee9b13c59bfd",
+    "sig": "46afa83f3502a086bdb63fa3f205fbf10129459b872f9760f63360b56b78b8f10050c99b85bdb861894e70582c3eff3ba4bca872cec8853d044f422029be1528",
+    "size": 1421024,
+    "date": "2026-11-28",
+    "notes": "人走近时不再因为距离变近就把跟随停掉。轮子卡死和测速线断开仍会停车。",
+    "mirrors": [
+      "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@ea51b8cd8655f3931a732e9c60b473ae4a87852b/firmware/k350_follow_1.4.57.bin",
+      "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@ea51b8cd8655f3931a732e9c60b473ae4a87852b/firmware/k350_follow_1.4.57.bin",
+      "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@ea51b8cd8655f3931a732e9c60b473ae4a87852b/firmware/k350_follow_1.4.57.bin"
+    ]
+  },
+  {
     "ver": "1.4.56",
     "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.56.bin",
     "sha256": "24a28770fb378684c990507dae3033d741cdc99efbd98e3caa293dfbb7fc4bbd",
