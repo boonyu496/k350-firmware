@@ -1,14 +1,14 @@
 {
-  "ver": "1.4.55",
-  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.55.bin",
-  "sha256": "ea34e0e4b191d0d0e877f5cf1e634b7d1b14729e4451e0822ef434d75b66e927",
-  "sig": "40e1a210e3ca557d0575dfb0c50d1a78968bea259e019ae94f08003f4d787d8699d1673289f8f6bcb503d6bf7742cd118aae7cab9e3983ecb405067a7d9d4811",
-  "size": 1404800,
+  "ver": "1.4.56",
+  "url": "https://raw.githubusercontent.com/boonyu496/k350-firmware/main/firmware/k350_follow_1.4.56.bin",
+  "sha256": "24a28770fb378684c990507dae3033d741cdc99efbd98e3caa293dfbb7fc4bbd",
+  "sig": "730b323c82d169d75d229dad6d35182fc47d1278f60ceda8a14ad317445d28b97cd2a18d08555818406ab44fffc9294cee8c2185ae71d5625ab3a7fa8b1d1a68",
+  "size": 1421856,
   "date": "2026-11-28",
-  "notes": "修复低速跟随起步后反复停顿：静止轮先起转，再恢复已学的左右轮修正。中路连续弱回波时增加一次较长复测，保留近障停车和轮速保护。",
+  "notes": "开阔车道按实测距离配速，转弯时先降速。短暂丢测不再立刻滑行，近障停车和轮速保护仍保留。",
   "mirrors": [
-    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin",
-    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin",
-    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@c83186bc29a20af701164c126cb81659b77832e9/firmware/k350_follow_1.4.55.bin"
+    "https://fastly.jsdelivr.net/gh/boonyu496/k350-firmware@609f48f187c23f950e82072ed1d779620561e2df/firmware/k350_follow_1.4.56.bin",
+    "https://cdn.jsdelivr.net/gh/boonyu496/k350-firmware@609f48f187c23f950e82072ed1d779620561e2df/firmware/k350_follow_1.4.56.bin",
+    "https://gcore.jsdelivr.net/gh/boonyu496/k350-firmware@609f48f187c23f950e82072ed1d779620561e2df/firmware/k350_follow_1.4.56.bin"
   ]
 }
